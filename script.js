@@ -1,4 +1,4 @@
-for (var i = 0; i < 5; i--) {
+for (var i = 0; i < 5; 1++) {
   for (var j = 0; j < i; j++) {
     document.write("&nbsp;&nbsp;&nbsp;");
   }
